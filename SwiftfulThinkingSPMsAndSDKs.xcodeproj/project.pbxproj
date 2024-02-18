@@ -11,6 +11,21 @@
 		02368BE72B76FD4D006DDC4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368BE62B76FD4D006DDC4E /* ContentView.swift */; };
 		02368BE92B76FD51006DDC4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02368BE82B76FD51006DDC4E /* Assets.xcassets */; };
 		02368BED2B76FD51006DDC4E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02368BEC2B76FD51006DDC4E /* Preview Assets.xcassets */; };
+		02368BF52B76FFD5006DDC4E /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 02368BF42B76FFD5006DDC4E /* SDWebImageSwiftUI */; };
+		02368BF82B77002A006DDC4E /* SDWebImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368BF72B77002A006DDC4E /* SDWebImageBootcamp.swift */; };
+		02368BFE2B7713AC006DDC4E /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368BFD2B7713AC006DDC4E /* ImageLoader.swift */; };
+		02368C002B7713DC006DDC4E /* ImagePrefetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368BFF2B7713DC006DDC4E /* ImagePrefetcher.swift */; };
+		02368C042B771470006DDC4E /* KingfisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368C032B771470006DDC4E /* KingfisherBootcamp.swift */; };
+		02368C072B7714A5006DDC4E /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 02368C062B7714A5006DDC4E /* Kingfisher */; };
+		02368C322B7977CC006DDC4E /* KeychainSwiftBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368C312B7977CC006DDC4E /* KeychainSwiftBootcamp.swift */; };
+		02368C352B797950006DDC4E /* KeychainSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 02368C342B797950006DDC4E /* KeychainSwift */; };
+		02368C382B79830A006DDC4E /* SwiftfulUIBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368C372B79830A006DDC4E /* SwiftfulUIBootcamp.swift */; };
+		02368C3B2B79831F006DDC4E /* SwiftfulUI in Frameworks */ = {isa = PBXBuildFile; productRef = 02368C3A2B79831F006DDC4E /* SwiftfulUI */; };
+		02368C3F2B798FB8006DDC4E /* SwiftfulRouting in Frameworks */ = {isa = PBXBuildFile; productRef = 02368C3E2B798FB8006DDC4E /* SwiftfulRouting */; };
+		02368C412B798FC9006DDC4E /* SwiftfulRoutingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368C402B798FC9006DDC4E /* SwiftfulRoutingBootcamp.swift */; };
+		02368C442B799881006DDC4E /* LottieBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02368C432B799881006DDC4E /* LottieBootcamp.swift */; };
+		02368C472B79998C006DDC4E /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 02368C462B79998C006DDC4E /* Lottie */; };
+		02368C492B799ACD006DDC4E /* StarAnimation.json in Resources */ = {isa = PBXBuildFile; fileRef = 02368C482B799ACD006DDC4E /* StarAnimation.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +35,15 @@
 		02368BE82B76FD51006DDC4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02368BEA2B76FD51006DDC4E /* SwiftfulThinkingSPMsAndSDKs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftfulThinkingSPMsAndSDKs.entitlements; sourceTree = "<group>"; };
 		02368BEC2B76FD51006DDC4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		02368BF72B77002A006DDC4E /* SDWebImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SDWebImageBootcamp.swift; sourceTree = "<group>"; };
+		02368BFD2B7713AC006DDC4E /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		02368BFF2B7713DC006DDC4E /* ImagePrefetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePrefetcher.swift; sourceTree = "<group>"; };
+		02368C032B771470006DDC4E /* KingfisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KingfisherBootcamp.swift; sourceTree = "<group>"; };
+		02368C312B7977CC006DDC4E /* KeychainSwiftBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainSwiftBootcamp.swift; sourceTree = "<group>"; };
+		02368C372B79830A006DDC4E /* SwiftfulUIBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulUIBootcamp.swift; sourceTree = "<group>"; };
+		02368C402B798FC9006DDC4E /* SwiftfulRoutingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulRoutingBootcamp.swift; sourceTree = "<group>"; };
+		02368C432B799881006DDC4E /* LottieBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieBootcamp.swift; sourceTree = "<group>"; };
+		02368C482B799ACD006DDC4E /* StarAnimation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = StarAnimation.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +51,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02368C3B2B79831F006DDC4E /* SwiftfulUI in Frameworks */,
+				02368C352B797950006DDC4E /* KeychainSwift in Frameworks */,
+				02368C072B7714A5006DDC4E /* Kingfisher in Frameworks */,
+				02368BF52B76FFD5006DDC4E /* SDWebImageSwiftUI in Frameworks */,
+				02368C3F2B798FB8006DDC4E /* SwiftfulRouting in Frameworks */,
+				02368C472B79998C006DDC4E /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,6 +68,7 @@
 			children = (
 				02368BE32B76FD4D006DDC4E /* SwiftfulThinkingSPMsAndSDKs */,
 				02368BE22B76FD4D006DDC4E /* Products */,
+				02368BF62B770012006DDC4E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,7 +85,13 @@
 			children = (
 				02368BE42B76FD4D006DDC4E /* SwiftfulThinkingSPMsAndSDKsApp.swift */,
 				02368BE62B76FD4D006DDC4E /* ContentView.swift */,
+				02368C422B799878006DDC4E /* Animations */,
+				02368C3C2B798F9D006DDC4E /* Routing */,
+				02368C362B798278006DDC4E /* UIHelpers */,
+				02368C302B7977B4006DDC4E /* Keychains */,
+				02368BFC2B77139E006DDC4E /* ImageLoading */,
 				02368BE82B76FD51006DDC4E /* Assets.xcassets */,
+				02368C482B799ACD006DDC4E /* StarAnimation.json */,
 				02368BEA2B76FD51006DDC4E /* SwiftfulThinkingSPMsAndSDKs.entitlements */,
 				02368BEB2B76FD51006DDC4E /* Preview Content */,
 			);
@@ -67,6 +104,72 @@
 				02368BEC2B76FD51006DDC4E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		02368BF62B770012006DDC4E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		02368BFC2B77139E006DDC4E /* ImageLoading */ = {
+			isa = PBXGroup;
+			children = (
+				02368C022B77145A006DDC4E /* Generic */,
+				02368C012B771454006DDC4E /* SPMs */,
+			);
+			path = ImageLoading;
+			sourceTree = "<group>";
+		};
+		02368C012B771454006DDC4E /* SPMs */ = {
+			isa = PBXGroup;
+			children = (
+				02368BF72B77002A006DDC4E /* SDWebImageBootcamp.swift */,
+				02368C032B771470006DDC4E /* KingfisherBootcamp.swift */,
+			);
+			path = SPMs;
+			sourceTree = "<group>";
+		};
+		02368C022B77145A006DDC4E /* Generic */ = {
+			isa = PBXGroup;
+			children = (
+				02368BFD2B7713AC006DDC4E /* ImageLoader.swift */,
+				02368BFF2B7713DC006DDC4E /* ImagePrefetcher.swift */,
+			);
+			path = Generic;
+			sourceTree = "<group>";
+		};
+		02368C302B7977B4006DDC4E /* Keychains */ = {
+			isa = PBXGroup;
+			children = (
+				02368C312B7977CC006DDC4E /* KeychainSwiftBootcamp.swift */,
+			);
+			path = Keychains;
+			sourceTree = "<group>";
+		};
+		02368C362B798278006DDC4E /* UIHelpers */ = {
+			isa = PBXGroup;
+			children = (
+				02368C372B79830A006DDC4E /* SwiftfulUIBootcamp.swift */,
+			);
+			path = UIHelpers;
+			sourceTree = "<group>";
+		};
+		02368C3C2B798F9D006DDC4E /* Routing */ = {
+			isa = PBXGroup;
+			children = (
+				02368C402B798FC9006DDC4E /* SwiftfulRoutingBootcamp.swift */,
+			);
+			path = Routing;
+			sourceTree = "<group>";
+		};
+		02368C422B799878006DDC4E /* Animations */ = {
+			isa = PBXGroup;
+			children = (
+				02368C432B799881006DDC4E /* LottieBootcamp.swift */,
+			);
+			path = Animations;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +188,14 @@
 			dependencies = (
 			);
 			name = SwiftfulThinkingSPMsAndSDKs;
+			packageProductDependencies = (
+				02368BF42B76FFD5006DDC4E /* SDWebImageSwiftUI */,
+				02368C062B7714A5006DDC4E /* Kingfisher */,
+				02368C342B797950006DDC4E /* KeychainSwift */,
+				02368C3A2B79831F006DDC4E /* SwiftfulUI */,
+				02368C3E2B798FB8006DDC4E /* SwiftfulRouting */,
+				02368C462B79998C006DDC4E /* Lottie */,
+			);
 			productName = SwiftfulThinkingSPMsAndSDKs;
 			productReference = 02368BE12B76FD4D006DDC4E /* SwiftfulThinkingSPMsAndSDKs.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +224,14 @@
 				Base,
 			);
 			mainGroup = 02368BD82B76FD4D006DDC4E;
+			packageReferences = (
+				02368BF32B76FFD5006DDC4E /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+				02368C052B7714A5006DDC4E /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				02368C332B797950006DDC4E /* XCRemoteSwiftPackageReference "keychain-swift" */,
+				02368C392B79831F006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulUI" */,
+				02368C3D2B798FB8006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulRouting" */,
+				02368C452B79998C006DDC4E /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
 			productRefGroup = 02368BE22B76FD4D006DDC4E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -129,6 +248,7 @@
 			files = (
 				02368BED2B76FD51006DDC4E /* Preview Assets.xcassets in Resources */,
 				02368BE92B76FD51006DDC4E /* Assets.xcassets in Resources */,
+				02368C492B799ACD006DDC4E /* StarAnimation.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +261,14 @@
 			files = (
 				02368BE72B76FD4D006DDC4E /* ContentView.swift in Sources */,
 				02368BE52B76FD4D006DDC4E /* SwiftfulThinkingSPMsAndSDKsApp.swift in Sources */,
+				02368C382B79830A006DDC4E /* SwiftfulUIBootcamp.swift in Sources */,
+				02368C042B771470006DDC4E /* KingfisherBootcamp.swift in Sources */,
+				02368C412B798FC9006DDC4E /* SwiftfulRoutingBootcamp.swift in Sources */,
+				02368C442B799881006DDC4E /* LottieBootcamp.swift in Sources */,
+				02368C322B7977CC006DDC4E /* KeychainSwiftBootcamp.swift in Sources */,
+				02368BFE2B7713AC006DDC4E /* ImageLoader.swift in Sources */,
+				02368C002B7713DC006DDC4E /* ImagePrefetcher.swift in Sources */,
+				02368BF82B77002A006DDC4E /* SDWebImageBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,6 +487,90 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		02368BF32B76FFD5006DDC4E /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.2.6;
+			};
+		};
+		02368C052B7714A5006DDC4E /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.10.2;
+			};
+		};
+		02368C332B797950006DDC4E /* XCRemoteSwiftPackageReference "keychain-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/evgenyneu/keychain-swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 21.0.0;
+			};
+		};
+		02368C392B79831F006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftfulThinking/SwiftfulUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.4;
+			};
+		};
+		02368C3D2B798FB8006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulRouting" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftfulThinking/SwiftfulRouting.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.0;
+			};
+		};
+		02368C452B79998C006DDC4E /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.4.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		02368BF42B76FFD5006DDC4E /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368BF32B76FFD5006DDC4E /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+		02368C062B7714A5006DDC4E /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368C052B7714A5006DDC4E /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		02368C342B797950006DDC4E /* KeychainSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368C332B797950006DDC4E /* XCRemoteSwiftPackageReference "keychain-swift" */;
+			productName = KeychainSwift;
+		};
+		02368C3A2B79831F006DDC4E /* SwiftfulUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368C392B79831F006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulUI" */;
+			productName = SwiftfulUI;
+		};
+		02368C3E2B798FB8006DDC4E /* SwiftfulRouting */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368C3D2B798FB8006DDC4E /* XCRemoteSwiftPackageReference "SwiftfulRouting" */;
+			productName = SwiftfulRouting;
+		};
+		02368C462B79998C006DDC4E /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 02368C452B79998C006DDC4E /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 02368BD92B76FD4D006DDC4E /* Project object */;
 }

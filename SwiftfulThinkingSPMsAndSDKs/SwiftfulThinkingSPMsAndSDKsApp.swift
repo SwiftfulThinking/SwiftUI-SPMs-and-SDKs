@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct SwiftfulThinkingSPMsAndSDKsApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            KingfisherBootcamp()
+            Text("Hi")
         }
     }
 }
